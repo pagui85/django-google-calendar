@@ -1,4 +1,5 @@
 *.pyc
+creds
 __pycache__/
 env
 token.pkl
